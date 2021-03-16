@@ -1,6 +1,6 @@
 ## The-Shootout
  Zero-player game using OOP paradigms.   
- The game uses its own engine. Upon running the game, it will generate a map and spawn characters.
+ The game uses its own engine. Upon running the game, it will generate a map and spawn characters.   
  There are four types of characters, each having a different type of weapon and different abilities.   
  * Grenadiers regenerate health every time they kill or wound an enemy depending on their overall kill count. They use grenades
  * Snipers deal increased damage. They use Sniper Rifles
